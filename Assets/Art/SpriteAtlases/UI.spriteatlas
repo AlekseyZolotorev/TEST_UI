@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a92391820102f40459da8a972dbe111c, type: 3}
+    - {fileID: 2800000, guid: 07088432cae767e4b80aa0824cd043f2, type: 3}
+    - {fileID: 2800000, guid: 91ba192e505b530469b190b5c705dc62, type: 3}
+    - {fileID: 2800000, guid: c2ddd676c1d5bfd4f86f050bab6a1a61, type: 3}
+    - {fileID: 2800000, guid: af40ec702176c734fb0d64aa3e0094c2, type: 3}
+    - {fileID: 2800000, guid: ebe3202a0d0b2e744bb2f88da332a2b3, type: 3}
+    - {fileID: 2800000, guid: 497e573bb3a2b9f458b306312894f100, type: 3}
+    - {fileID: 2800000, guid: 5920b4991471d3e4eb2214767d288195, type: 3}
+    - {fileID: 2800000, guid: 962f348a6e30c554fa611f4e7e7dff27, type: 3}
+    - {fileID: 2800000, guid: 9a4a9d83796dea34aaa795ddb9ec9f6d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - af40ec702176c734fb0d64aa3e0094c2: 21300000
+    - 07088432cae767e4b80aa0824cd043f2: 21300000
+    - a92391820102f40459da8a972dbe111c: 21300000
+    - 9a4a9d83796dea34aaa795ddb9ec9f6d: 21300000
+    - c2ddd676c1d5bfd4f86f050bab6a1a61: 21300000
+    - 5920b4991471d3e4eb2214767d288195: 21300000
+    - ebe3202a0d0b2e744bb2f88da332a2b3: 21300000
+    - 962f348a6e30c554fa611f4e7e7dff27: 21300000
+    - 497e573bb3a2b9f458b306312894f100: 21300000
+    - 91ba192e505b530469b190b5c705dc62: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: af40ec702176c734fb0d64aa3e0094c2, type: 3}
+  - {fileID: 21300000, guid: 07088432cae767e4b80aa0824cd043f2, type: 3}
+  - {fileID: 21300000, guid: a92391820102f40459da8a972dbe111c, type: 3}
+  - {fileID: 21300000, guid: 9a4a9d83796dea34aaa795ddb9ec9f6d, type: 3}
+  - {fileID: 21300000, guid: c2ddd676c1d5bfd4f86f050bab6a1a61, type: 3}
+  - {fileID: 21300000, guid: 5920b4991471d3e4eb2214767d288195, type: 3}
+  - {fileID: 21300000, guid: ebe3202a0d0b2e744bb2f88da332a2b3, type: 3}
+  - {fileID: 21300000, guid: 962f348a6e30c554fa611f4e7e7dff27, type: 3}
+  - {fileID: 21300000, guid: 497e573bb3a2b9f458b306312894f100, type: 3}
+  - {fileID: 21300000, guid: 91ba192e505b530469b190b5c705dc62, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_enduranceSlider
+  - ui_attackButton
+  - u_interactButton
+  - ui_slider
+  - ui_buildButton
+  - ui_inventoryButton
+  - ui_handleJoystick
+  - ui_joystickArea
+  - ui_healthslider
+  - ui_barFillArea
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
